@@ -1,4 +1,4 @@
-# Hi there, I'm [Shawky Mshrif] 👋
+# Hi there, I'm Shawky Mshrif 👋
 
 ## 🚀 About Me
 I'm a passionate **Frontend Developer | React** with a strong interest in crafting intuitive and dynamic web interfaces. My expertise lies in creating responsive and accessible websites using modern web technologies.
