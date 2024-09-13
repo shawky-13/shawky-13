@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me
 
 <!--
 **shawky-13/shawky-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
