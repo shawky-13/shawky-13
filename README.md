@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate **Frontend Developer | React** with a strong interest in crafting intuitive and dynamic web interfaces. My expertise lies in creating responsive and accessible websites using modern web technologies.
 
-- 🔭 I’m currently working on improving my skills in [HTML, CSS, JavaScript (ES6+) , Bootstrap5 , Tailwind ].
+- 🔭 I’m currently working on improving my skills in [HTML, CSS, JavaScript (ES6+) , Bootstrap5 , TailwindCSS , ReactJS ].
 - 🌱 I’m currently learning [Redux , Framer motion & gsap  , Typescript , Nodejs + express , Next.js , Unit testing with Vitest ].
 - 👯 I’m looking to collaborate on open-source projects and web applications.
 - 💬 Ask me about frontend development, web accessibility.
